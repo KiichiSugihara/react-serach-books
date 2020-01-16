@@ -1,9 +1,9 @@
 import React from 'react';
 import styled, { createGlobalStyle } from 'styled-components';
 
-import logo from './logo.svg';
+import logo from 'logo.svg';
 
-const App: React.FC = () => {
+export const App: React.FC = () => {
   return (
     <>
       <GlobalStyle />
