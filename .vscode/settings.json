@@ -27,6 +27,8 @@
     "Interop",
     "Otameshi",
     "antialiased",
+    "browserslist",
+    "dayjs",
     "esnext"
   ]
 }
